@@ -9,7 +9,7 @@ body {
 }
 
 header, footer {
-  background-color: #ffa500;
+  background-color: #7FC1C8;
   text-align: center;
 /*  min-width: 500px; */
 }
@@ -49,6 +49,11 @@ h2 {
   text-align: left;
   color: #a4133c;
   padding: 10px 0px 10px 10px;
+}
+
+h3{
+  text-align: center;
+  font-size: 12px;
 }
 
 img {
@@ -96,7 +101,7 @@ img {
     top:1px;
 }
 
-.recipe {
+.project {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
 }
