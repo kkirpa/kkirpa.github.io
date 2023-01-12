@@ -61,6 +61,16 @@ h1 {
   color: #800000;
 }
 
+header h2 {
+  font-family: 'Expletus Sans', cursive;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: Center;
+  color: #a4133c;
+  padding: 10px 0px 10px 10px;
+}
+
 h2 {
   font-family: 'Expletus Sans', cursive;
   font-size: 18px;
