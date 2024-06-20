@@ -202,6 +202,16 @@ footer div {
   color: rgba(0, 0, 0, 0.8);
   justify-content: space between;
 }
+
+header h2 {
+  font-family: 'Expletus Sans', cursive;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: Center;
+  color: #a4133c;
+  padding: 10px 0px 10px 10px;
+}
 .copyright {
   margin: auto 0;
 }
